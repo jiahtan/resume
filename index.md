@@ -37,14 +37,14 @@ relating to prior year spend and revenue growth.
 - Applied various statistical methods to tackle projects involving missing data, self-selection bias, and other challenges to identification.
 - Prepared timely, accurate, easy to read, and informative evaluation reports.  
 - Designed and implemented effective data visualization dashboards in R Shiny and Tableau for student performance and outcomes. 
-- Let meetings with internal and external stakeholders across the university to clarify their needs and plan projects.
+- Let meetings with internal and external stakeholders across the university to clarify their needs and plan projects.  
 - Collaborated with the Lead Programmer to identify data quality issues and ensure high code hygiene. 
 ---
 
 ## Education
-**University of California, Davis**
-- **Master of Science in Statistics** | June 2017
-- **Bachelor of Science in Statistics** | June 2016
+**University of California, Davis**  
+- **Master of Science in Statistics** | June 2017  
+- **Bachelor of Science in Statistics** | June 2016  
   - Minor in Computer Science and Managerial Economics
 ---
 
