@@ -4,7 +4,7 @@
 ---
 
 ## Summary
-A brief, compelling summary of your skills, experience, and career goals. Highlight what makes you unique.
+Experienced Data Scientist with 8+ years of expertise in leveraging data to inform and drive strategic decision-making. With 5+ years of proven track record of collaborating with cross-functional teams and leading data initiatives across various Trust domains with day-to-day tasks like metric definition, experimentation design, product deep dives, and data pipeline development.
 
 ---
 
@@ -18,7 +18,7 @@ A brief, compelling summary of your skills, experience, and career goals. Highli
 - Define and build true north, signpost, and guardrail metrics for different Trust domain areas such as anti-scraping & automation, messaging abuse, account abuse, and horizontal productivity.
 - Construct and automate data pipelines, reports, and dashboards to track critical business metrics.
 - Identify data gaps and anomalies, collaborating with infrastructure engineers to address these issues.
-- Lead and collaborate on multiple high-impact analyses and projects from end-to-end to influence team roadmaps and product strategies.
+- Lead and collaborate on multiple high-impact analyses and projects from end-to-end to influence team roadmap and product strategies.
 - Actively support hiring initiatives by enhancing the interview process and developing new evaluation modules.
 
 ### Google | Redwood City, CA
@@ -53,6 +53,6 @@ relating to prior year spend and revenue growth.
 ## Skills
 - **Technical Skills**: Python, R, Spark, SQL, Git, Tableau
 - **Analytical Skills**: Statistical Analysis, Experimentation Design, Causal Analysis, Linear Models
-- **Langauges**: 
+- **Languages**: 
     - Chinese: Fluent in both mandarin and cantonese
     - Spanish: Basic
