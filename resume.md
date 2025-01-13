@@ -42,12 +42,10 @@ relating to prior year spend and revenue growth.
 ---
 
 ## Education
-
 **University of California, Davis**
 - **Master of Science in Statistics** | June 2017
 - **Bachelor of Science in Statistics** | June 2016
   - Minor in Computer Science and Managerial Economics
-
 ---
 
 ## Skills
